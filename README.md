@@ -8,6 +8,7 @@ The focus is on understanding how SQL injection works in real applications, not 
 
 ---
 
+
 ## Lab Environment
 - Target Application: OWASP Juice Shop (Local)
 - URL: http://localhost:3000
